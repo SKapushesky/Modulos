@@ -19,3 +19,19 @@ See you in the next update,
 Sasha![Screenshot 2025-10-20 at 21.16.45.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--447013378d4b3688d8e242a9967c27b65840cc02/Screenshot%202025-10-20%20at%2021.16.45.png)
   
 
+## 10/21/2025 - Gathered some more ideas for project  
+
+I have half-thought, half-forked ideas! 
+
+**What my display is going to do**
+
+It is going to run off my laptop when its plugged in (maybe battery so dont have to plug in)
+
+> Homepage: Show time, date, and small weather info somewhere.
+
+> When clicked on (probably going to have a panel near display): Show different modules.
+
+> Modules: Timer, Alarm, Music?, Notes/To-do list, Extended weather, photos (uploaded from google drive probably)
+![Screenshot 2025-10-21 at 21.23.58.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7248c70c78cb6f0068d0dae08a680e9833b66b2d/Screenshot%202025-10-21%20at%2021.23.58.png)
+   
+
