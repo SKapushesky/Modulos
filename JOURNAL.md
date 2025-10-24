@@ -40,8 +40,9 @@ It is going to run off my laptop when its plugged in (maybe battery so dont have
 I looked for parts for my project. (only main parts, PCB and stuff like headers not included)
 Everything is from PIhut
 
-TL;DR: Total cost of all parts - $182.51![Screenshot 2025-10-24 at 10.35.16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9a6e38c1a4552c745182c8a5a885dff5e5ddc5b1/Screenshot%202025-10-24%20at%2010.35.16.png)
+TL;DR: Total cost of all parts - $182.51!
  **DOLLARS**
+![Screenshot 2025-10-24 at 10.51.29.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--31e332f53be06be5c3af5e682d70f0b7e192a7a0/Screenshot%202025-10-24%20at%2010.51.29.png)
 
 This is what I found:
 
