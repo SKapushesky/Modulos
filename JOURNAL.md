@@ -35,3 +35,25 @@ It is going to run off my laptop when its plugged in (maybe battery so dont have
 ![Screenshot 2025-10-21 at 21.23.58.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7248c70c78cb6f0068d0dae08a680e9833b66b2d/Screenshot%202025-10-21%20at%2021.23.58.png)
    
 
+## 10/24/2025 - Researched parts  
+
+I looked for parts for my project. (only main parts, PCB and stuff like headers not included)
+Everything is from PIhut
+
+TL;DR: Total cost of all parts - $182.51![Screenshot 2025-10-24 at 10.35.16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9a6e38c1a4552c745182c8a5a885dff5e5ddc5b1/Screenshot%202025-10-24%20at%2010.35.16.png)
+ **DOLLARS**
+
+This is what I found:
+
+I was going to buy the Rasberry Pi 5 Starter Kit which included main board, power supply. storage and hdmi, but it turns out that it costs more to buy together. By about 20 ish dollars.
+
+Main Board - Raspberry Pi 5 4GB (76.90usd)
+Display - 7" IPS Capacitive HDMI Touch Screen LCD (1024×600) (61.55usd)
+Power Supply - Raspberry Pi 15W USB-C Power Supply - UK Plug (10.28usd)
+Storage - Raspberry Pi Micro SD Card with RPi OS Pre-Installed (12.82usd)
+HDMI - Raspberry Pi Micro-HDMI Cable (6.41usd)
+Speaker (might not buy) - Mini External USB Stereo Speaker (14.55usd)
+Frame/Case for project - 3D printed from printing legion
+
+  
+
